@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.util.List;
+// Minor update on day 2
 
 /**
  * Address servlet - handles shipping address CRUD
