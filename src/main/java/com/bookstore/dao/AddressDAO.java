@@ -8,6 +8,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Handles user-related operations.
+ *
+ * Notes:
+ * - Reviewed request handling logic
+ * - Clarified method responsibilities
+ * - Added explanation for future maintenance
+ */
+
+/**
  * Address data access object
  */
 public class AddressDAO {
